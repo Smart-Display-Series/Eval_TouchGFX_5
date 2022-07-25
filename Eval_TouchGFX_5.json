@@ -1,0 +1,53 @@
+{
+  "Meta": {
+    "Url": "http://packages.touchgfx.com/V2/Eval_TouchGFX_5/Eval_TouchGFX_5-1.0.0.zip",
+    "MD5sum": "3B6F2F95152D7083ED4701F7D3DDC264",
+    "Size": 53962463,
+    "Author": [
+      {
+        "Name": "Smart Display",
+        "Contact": "",
+        "URL": ""
+      }
+    ],
+    "LicenseUrl": "",
+    "Copyright": "",
+    "TouchGFXVersion": {
+      "Major": 4,
+      "Minor": 18,
+      "Build": 1
+    },
+    "CreatedAt": "2022-07-24T00:00:00Z",
+    "PathToDotTouchGFX": "",
+    "EmbeddedOs": "FreeRTOS"
+  },
+  "Data": {
+    "Version": {
+      "Major": 1,
+      "Minor": 0,
+      "Build": 0
+    },
+    "Name": "Eval_TouchGFX_5",
+    "HumanFriendlyName": "Eval_TouchGFX_5(STM32F429)",
+    "BoardName": "Smart Display 5 Evalution Board(STM32F429)",
+    "Type": "TGAT",
+    "Vendor": "Smart Display",
+    "Description": "Configuration is done using CubeMX6.3.0 and Additional Software compoent \"TouchGFX Generator 4.18.0\".\n\nThe default IDE is set to STM32CubeID.\n\nSupports flashing of the Evalution Board Smart Display 5(STM32F429)\" directly from TouchGFX Designer using GCC and STM32CubeProgrammer.",
+    "DocumentationLink": "",
+    "Category": "Demo",
+    "Images": [
+      "https://www.winstar.com.tw/uploads/photos/smart-display/can-display/WL0F00050000FGAAASA00-industrial.jpg",
+      "https://www.winstar.com.tw/uploads/photos/smart-display/can-display/WL0F00050000FGAAASA00-medical.jpg"
+    ],
+    "Tags": [],
+    "AvailableResolutions": [
+      {
+        "Height": 480,
+        "Width": 800
+      }
+    ],
+    "TargetBpp": [
+      16
+    ]
+  }
+}
